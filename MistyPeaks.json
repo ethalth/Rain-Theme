@@ -1,6 +1,6 @@
 {
   "name": "Misty Peaks",
-  "version": "3.0",
+  "version": "3.1",
   "description": "A misty, forest-inspired dark theme.",
   "authors": [
     {
@@ -130,7 +130,7 @@
     "ICON_BRAND": ["#91A99A"],
     "STATUS_POSITIVE": ["#7FBF95"],
     "STATUS_WARNING": ["#D9BF7C"],
-    "STATUS_DANGER": ["#D98A8A"],
+    "STATUS_DANGER": ["#D0605E"],
     "STATUS_POSITIVE_BACKGROUND": ["#2F4A3A"],
     "STATUS_WARNING_BACKGROUND": ["#4A412B"],
     "STATUS_DANGER_BACKGROUND": ["#5A3A3A"],
@@ -251,7 +251,16 @@
     "CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": ["#D2F2DE"],
     "MOBILE_HEADER_ICON_DEFAULT": ["#A8DCC0"],
     "TABLEROW_ICON_COLOR_DEFAULT": ["#A8DCC0"],
-    "WHITE": ["#E4F5EA"]
+    "WHITE": ["#E4F5EA"],
+    "BADGE_NOTIFICATION_BACKGROUND": ["#D0605E"],
+    "BACKGROUND_FEEDBACK_NOTIFICATION": ["#D0605E"],
+    "ICON_FEEDBACK_NOTIFICATION": ["#D0605E"],
+    "BADGE_BACKGROUND_BRAND": ["#91A99A"],
+    "BADGE_BACKGROUND_DEFAULT": ["#26322C"],
+    "MOBILE_UNREADBAR_TEXT_DEFAULT": ["#F6E9E9"],
+    "MOBILE_CHAT_NEW_MESSAGE_BORDER": ["#D0605E"],
+    "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": ["#1B2420"],
+    "MOBILE_GUILDBAR_ICON_DEFAULT": ["#A8DCC0"]
   },
   "rawColors": {
     "BRAND_200": "#C3D4C8",
@@ -316,8 +325,8 @@
     "GREEN_400": "#91A99A",
     "GREEN_430": "#91A99A",
     "GREEN_460": "#718779",
-    "RED_360": "#B98282",
-    "RED_400": "#B98282",
+    "RED_360": "#D0605E",
+    "RED_400": "#D0605E",
     "RED_430": "#A96F6F",
     "RED_460": "#8C5B5B",
     "ORANGE_360": "#B99A72",
@@ -349,7 +358,7 @@
     "GREEN_500": "#718779",
     "RED_300": "#D9A0A0",
     "RED_330": "#D09595",
-    "RED_500": "#8C5B5B",
+    "RED_500": "#D0605E",
     "ORANGE_300": "#C9AD88",
     "ORANGE_500": "#8C6F4D",
     "YELLOW_330": "#C4B886",
