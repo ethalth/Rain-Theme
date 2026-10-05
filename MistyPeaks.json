@@ -1,0 +1,409 @@
+{
+  "name": "Misty Peaks",
+  "description": "A dark, foggy mountain theme inspired by mist-covered alpine landscapes.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "ethalth",
+      "id": "1523087461557997579"
+    }
+  ],
+  "mode": "dark",
+
+  "colors": {
+    "PRIMARY_100": "#e8eeee",
+    "PRIMARY_200": "#d5dddd",
+    "PRIMARY_300": "#b8c4c4",
+    "PRIMARY_400": "#9aa9a9",
+    "PRIMARY_500": "#788989",
+    "PRIMARY_600": "#596b6b",
+    "PRIMARY_630": "#465858",
+    "PRIMARY_645": "#3e5050",
+    "PRIMARY_660": "#364848",
+    "PRIMARY_700": "#2f4141",
+    "PRIMARY_800": "#243535",
+    "PRIMARY_830": "#1e2d2d",
+    "PRIMARY_860": "#172525",
+    "PRIMARY_900": "#101c1c",
+
+    "PLUM_1": "#dce4e2",
+    "PLUM_2": "#cbd5d3",
+    "PLUM_3": "#b8c5c3",
+    "PLUM_4": "#a5b4b2",
+    "PLUM_5": "#91a3a1",
+    "PLUM_6": "#7f9290",
+    "PLUM_9": "#647875",
+    "PLUM_10": "#596d6a",
+    "PLUM_11": "#526562",
+    "PLUM_15": "#3a4e4c",
+    "PLUM_17": "#304441",
+    "PLUM_18": "#293c39",
+    "PLUM_19": "#233532",
+    "PLUM_20": "#1d2e2b",
+    "PLUM_21": "#192925",
+    "PLUM_23": "#152420",
+    "PLUM_24": "#12201d",
+    "PLUM_25": "#101c19",
+    "PLUM_26": "#0c1715",
+
+    "WHITE": "#edf3f1",
+    "BLACK": "#07100f",
+
+    "GREEN_330": "#7fa99b",
+    "GREEN_360": "#719a8d",
+    "GREEN_400": "#638c7f",
+    "GREEN_430": "#587e72",
+
+    "BRAND_500": "#7d9f98",
+    "BRAND_530": "#6d8e87",
+    "BRAND_560": "#5e7d77",
+    "BRAND_600": "#506d67",
+
+    "RED_400": "#d87575",
+    "RED_430": "#c76464",
+
+    "YELLOW_300": "#c5b77a",
+    "YELLOW_400": "#ae9e62",
+
+    "BLUE_330": "#7ca6b5",
+    "BLUE_360": "#6e98a8",
+    "BLUE_400": "#608a9b"
+  },
+
+  "rawColors": {
+    "WHITE": "#edf3f1",
+    "BLACK": "#07100f",
+
+    "PRIMARY_100": "#e8eeee",
+    "PRIMARY_200": "#d5dddd",
+    "PRIMARY_300": "#b8c4c4",
+    "PRIMARY_400": "#9aa9a9",
+    "PRIMARY_500": "#788989",
+    "PRIMARY_600": "#596b6b",
+    "PRIMARY_630": "#465858",
+    "PRIMARY_645": "#3e5050",
+    "PRIMARY_660": "#364848",
+    "PRIMARY_700": "#2f4141",
+    "PRIMARY_800": "#243535",
+    "PRIMARY_830": "#1e2d2d",
+    "PRIMARY_860": "#172525",
+    "PRIMARY_900": "#101c1c",
+
+    "PLUM_1": "#dce4e2",
+    "PLUM_2": "#cbd5d3",
+    "PLUM_3": "#b8c5c3",
+    "PLUM_4": "#a5b4b2",
+    "PLUM_5": "#91a3a1",
+    "PLUM_6": "#7f9290",
+    "PLUM_9": "#647875",
+    "PLUM_10": "#596d6a",
+    "PLUM_11": "#526562",
+    "PLUM_15": "#3a4e4c",
+    "PLUM_17": "#304441",
+    "PLUM_18": "#293c39",
+    "PLUM_19": "#233532",
+    "PLUM_20": "#1d2e2b",
+    "PLUM_21": "#192925",
+    "PLUM_23": "#152420",
+    "PLUM_24": "#12201d",
+    "PLUM_25": "#101c19",
+    "PLUM_26": "#0c1715",
+
+    "BRAND_500": "#7d9f98",
+    "BRAND_530": "#6d8e87",
+    "BRAND_560": "#5e7d77",
+    "BRAND_600": "#506d67",
+
+    "GREEN_330": "#7fa99b",
+    "GREEN_360": "#719a8d",
+    "GREEN_400": "#638c7f",
+    "GREEN_430": "#587e72",
+
+    "BLUE_330": "#7ca6b5",
+    "BLUE_360": "#6e98a8",
+    "BLUE_400": "#608a9b",
+
+    "RED_400": "#d87575",
+    "RED_430": "#c76464",
+
+    "YELLOW_300": "#c5b77a",
+    "YELLOW_400": "#ae9e62"
+  },
+
+  "semanticColors": {
+    "BACKGROUND_BASE_LOW": {
+      "type": "raw",
+      "value": "PLUM_17"
+    },
+    "BACKGROUND_BASE_LOWER": {
+      "type": "raw",
+      "value": "PLUM_20"
+    },
+    "BACKGROUND_BASE_LOWEST": {
+      "type": "raw",
+      "value": "PLUM_23"
+    },
+
+    "BACKGROUND_SECONDARY_ALT": {
+      "type": "raw",
+      "value": "PLUM_17"
+    },
+    "BACKGROUND_SURFACE_HIGH": {
+      "type": "raw",
+      "value": "PLUM_23"
+    },
+    "BACKGROUND_SURFACE_HIGHEST": {
+      "type": "raw",
+      "value": "PLUM_23"
+    },
+
+    "BACKGROUND_ACCENT": {
+      "type": "raw",
+      "value": "PLUM_15"
+    },
+
+    "CHANNEL_BACKGROUND_DEFAULT": {
+      "type": "raw",
+      "value": "PLUM_17"
+    },
+
+    "CHANNELTEXTAREA_BACKGROUND": {
+      "type": "raw",
+      "value": "PLUM_15"
+    },
+
+    "CHAT_BANNER_BG": {
+      "type": "raw",
+      "value": "PLUM_20"
+    },
+
+    "CHAT_BORDER": {
+      "type": "raw",
+      "value": "PLUM_24"
+    },
+
+    "CHAT_INPUT_BACKGROUND": {
+      "type": "raw",
+      "value": "PLUM_24"
+    },
+
+    "CHAT_INPUT_ACTION_BUTTON_BACKGROUND": {
+      "type": "raw",
+      "value": "PLUM_23"
+    },
+
+    "EMBED_BACKGROUND": {
+      "type": "raw",
+      "value": "PLUM_20"
+    },
+
+    "EMBED_BACKGROUND_ALTERNATE": {
+      "type": "raw",
+      "value": "PLUM_17"
+    },
+
+    "CARD_BACKGROUND_DEFAULT": {
+      "type": "raw",
+      "value": "PLUM_17"
+    },
+
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": {
+      "type": "raw",
+      "value": "PLUM_20"
+    },
+
+    "CARD_SECONDARY_BACKGROUND_ACTIVE": {
+      "type": "raw",
+      "value": "PLUM_21"
+    },
+
+    "CARD_SECONDARY_PRESSED_BG": {
+      "type": "raw",
+      "value": "PLUM_21"
+    },
+
+    "CARD_PRIMARY_PRESSED_BG": {
+      "type": "raw",
+      "value": "PLUM_21"
+    },
+
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": {
+      "type": "raw",
+      "value": "BRAND_500"
+    },
+
+    "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": {
+      "type": "raw",
+      "value": "BRAND_600"
+    },
+
+    "BUTTON_OUTLINE_PRIMARY_TEXT": {
+      "type": "raw",
+      "value": "WHITE"
+    },
+
+    "CONTROL_PRIMARY_BACKGROUND_DEFAULT": {
+      "type": "raw",
+      "value": "BRAND_500"
+    },
+
+    "CONTROL_PRIMARY_BACKGROUND_HOVER": {
+      "type": "raw",
+      "value": "BRAND_530"
+    },
+
+    "CONTROL_PRIMARY_BACKGROUND_ACTIVE": {
+      "type": "raw",
+      "value": "BRAND_560"
+    },
+
+    "CONTROL_PRIMARY_TEXT_DEFAULT": {
+      "type": "raw",
+      "value": "WHITE"
+    },
+
+    "CHANNEL_ICON": {
+      "type": "raw",
+      "value": "PLUM_10"
+    },
+
+    "CHANNELS_DEFAULT": {
+      "type": "raw",
+      "value": "PLUM_9"
+    },
+
+    "TEXT_NORMAL": {
+      "type": "raw",
+      "value": "PLUM_3"
+    },
+
+    "TEXT_MUTED": {
+      "type": "raw",
+      "value": "PLUM_6"
+    },
+
+    "TEXT_LINK": {
+      "type": "raw",
+      "value": "BLUE_360"
+    },
+
+    "TEXT_POSITIVE": {
+      "type": "raw",
+      "value": "GREEN_330"
+    },
+
+    "TEXT_WARNING": {
+      "type": "raw",
+      "value": "YELLOW_300"
+    },
+
+    "TEXT_DANGER": {
+      "type": "raw",
+      "value": "RED_400"
+    },
+
+    "INTERACTIVE_NORMAL": {
+      "type": "raw",
+      "value": "PLUM_6"
+    },
+
+    "INTERACTIVE_HOVER": {
+      "type": "raw",
+      "value": "PLUM_3"
+    },
+
+    "INTERACTIVE_ACTIVE": {
+      "type": "raw",
+      "value": "WHITE"
+    },
+
+    "BORDER_NORMAL": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.35
+    },
+
+    "BORDER_SUBTLE": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.16
+    },
+
+    "BORDER_STRONG": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.5
+    },
+
+    "BACKGROUND_MOD_NORMAL": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.16
+    },
+
+    "BACKGROUND_MOD_SUBTLE": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.12
+    },
+
+    "BACKGROUND_MOD_MUTED": {
+      "type": "raw",
+      "value": "PLUM_11",
+      "opacity": 0.2
+    },
+
+    "BACKGROUND_SCRIM": {
+      "type": "raw",
+      "value": "BLACK",
+      "opacity": 0.7
+    },
+
+    "BACKGROUND_SCRIM_LIGHTBOX": {
+      "type": "raw",
+      "value": "BLACK",
+      "opacity": 0.92
+    },
+
+    "BACKGROUND_FEEDBACK_CRITICAL": {
+      "type": "raw",
+      "value": "RED_430"
+    },
+
+    "BACKGROUND_FEEDBACK_NOTIFICATION": {
+      "type": "raw",
+      "value": "RED_400"
+    },
+
+    "BACKGROUND_FEEDBACK_POSITIVE": {
+      "type": "raw",
+      "value": "GREEN_400",
+      "opacity": 0.08
+    },
+
+    "BACKGROUND_FEEDBACK_WARNING": {
+      "type": "raw",
+      "value": "YELLOW_300",
+      "opacity": 0.1
+    },
+
+    "BACKGROUND_FEEDBACK_INFO": {
+      "type": "raw",
+      "value": "BLUE_330",
+      "opacity": 0.08
+    }
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png",
+    "alpha": 0.4,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "iconpack": "rosiecord-plumpy"
+  },
+
+  "spec": 3
+}
